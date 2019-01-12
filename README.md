@@ -9,8 +9,8 @@ The webapp is built using flask.
 Make sure you have installed Python , Pytorch and flask.
 
 * _First download all the folders and files_
-* _Then open the command prompt and change the directory to the path where all the files are located._
-* _Now run the following commands -
+* _Then open the command prompt (or powershell) and change the directory to the path where all the files are located._
+* _Now run the following commands_ -
 
 > set FLASK_APP=flower.py
 
