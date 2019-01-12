@@ -13,6 +13,7 @@ Make sure you have installed Python , Pytorch and flask.
 * _Now run the following commands -
 
 > set FLASK_APP=flower.py
+
 > python -m flask run
 
 This will firstly download the models and then start the local web server.
