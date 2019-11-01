@@ -23,7 +23,8 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 [Backpropogation](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8)        
 
 ## Flow :
-* Inference :    
+* Input image is fed and transformed using : [commons.py](https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP/blob/master/commons.py)     
+* Inference is done by : [inference.py](https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP/blob/master/inference.py)         
 ![resnet152infer](/static/inference.gif)    
 
 ## Run on windows - 
