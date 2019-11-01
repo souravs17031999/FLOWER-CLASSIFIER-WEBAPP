@@ -21,6 +21,10 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 [Gradient Descent](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078)   
 [Backpropogation](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8)        
 
+## Flow :
+* Inference :    
+![resnet152infer](/static/inference.gif)    
+
 ## Run on windows - 
 Make sure you have installed Python , Pytorch and flask.
 
