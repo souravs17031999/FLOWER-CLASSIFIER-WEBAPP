@@ -25,7 +25,11 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 ## Flow :
 * Input image is fed and transformed using : [commons.py](https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP/blob/master/commons.py)     
 * Inference is done by : [inference.py](https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP/blob/master/inference.py)         
-![resnet152infer](/static/inference.gif)    
+![resnet152infer](/static/inference.gif)     
+
+## Complete flow :    
+![model](/static/model.gif)   
+
 
 ## Run on windows - 
 Make sure you have installed Python , Pytorch and flask.
