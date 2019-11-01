@@ -12,7 +12,8 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
 ## Neural Network used : 
 [Resnet152](https://resources.wolframcloud.com/NeuralNetRepository/resources/ResNet-152-Trained-on-ImageNet-Competition-Data)    
-[Network Layers in Pytorch](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)     
+[Network Layers in Pytorch](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py)        
+* You can dowload ResNet152 [here](https://www.kaggle.com/pytorch/resnet152)      
 
 ## Refresher on Neural Network :
 [Gradient Descent](https://medium.com/secure-and-private-ai-writing-challenge/playing-with-gradient-descent-intuition-e5bde385078)   
