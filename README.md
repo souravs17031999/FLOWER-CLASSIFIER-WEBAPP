@@ -18,9 +18,11 @@ http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 ## Run on windows - 
 Make sure you have installed Python , Pytorch and flask.
 
-* _First download all the folders and files_
-* _Then open the command prompt (or powershell) and change the directory to the path where all the files are located._
-* _Now run the following commands_ -     
+* _First download all the folders and files_     
+`git clone https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP.git`     
+* _Then open the command prompt (or powershell) and change the directory to the path where all the files are located._       
+`cd FLOWER-CLASSIFIER-WEBAPP`      
+* _Now run the following commands_ -        
 
 `set FLASK_APP=flower.py`   
 
