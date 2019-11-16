@@ -42,7 +42,7 @@ Make sure you have installed Python , Pytorch and flask.
 
 `set FLASK_APP=flower.py`   
 
-`python -m flask run`      
+`flask run`      
 
 
 This will firstly download the models and then start the local web server.
