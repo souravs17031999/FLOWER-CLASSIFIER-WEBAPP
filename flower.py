@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
-app = Flask(__name__)
-
 from inference import get_flower_name
+app = Flask(__name__)
 
 @app.route('/',methods = ['GET','POST'])
 def hello_world():
@@ -16,5 +15,3 @@ def hello_world():
 		image = file.read()
 		category,flower_name = get_flower_name(image_bytes=image)
 		return render_template('result.html',flower = flower_name, category = category)
-
-	
