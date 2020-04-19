@@ -36,7 +36,7 @@ Make sure you have installed Python , Pytorch and flask.
 
 * _First download all the folders and files_     
 `git clone https://github.com/souravs17031999/FLOWER-CLASSIFIER-WEBAPP.git`       
-* _Download pretrained weights and keep it in the same Project directory [Download here]_(https://www.kaggle.com/souravs17031999/flowerclassifierudacitypretrainedweights).       
+* _Download pretrained weights and keep it in the same Project directory_ [Download here](https://www.kaggle.com/souravs17031999/flowerclassifierudacitypretrainedweights).       
 * _Then open the command prompt (or powershell) and change the directory to the path where all the files are located._       
 `cd FLOWER-CLASSIFIER-WEBAPP`      
 * _Now run the following commands_ -        
